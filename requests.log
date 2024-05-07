@@ -1,0 +1,1231 @@
+Watching for file changes with StatReloader
+Request to /posts/1/ took 0.194026 seconds
+"GET /posts/1/ HTTP/1.1" 200 12744
+Request to /posts/1/ took 0.020057 seconds
+"GET /posts/1/ HTTP/1.1" 200 12756
+Request to /posts/1/ took 0.022205 seconds
+"GET /posts/1/ HTTP/1.1" 200 12756
+Request to /posts/1/ took 0.021818 seconds
+"GET /posts/1/ HTTP/1.1" 200 12756
+Request to /posts/1/ took 0.021981 seconds
+"GET /posts/1/ HTTP/1.1" 200 12757
+Request to /posts/1/ took 0.015656 seconds
+"GET /posts/1/ HTTP/1.1" 200 12778
+Request to /posts/1/ took 0.000000 seconds
+"GET /posts/1/ HTTP/1.1" 200 12778
+Request to /posts/1/ took 0.020788 seconds
+"GET /posts/1/ HTTP/1.1" 200 12778
+Request to /posts/1/ took 0.015373 seconds
+"GET /posts/1/ HTTP/1.1" 200 12778
+Request to /posts/1/ took 0.010594 seconds
+"GET /posts/1/ HTTP/1.1" 200 12778
+Request to /posts/1/ took 0.013852 seconds
+"GET /posts/1/ HTTP/1.1" 200 12778
+Request to /posts/1/ took 0.005090 seconds
+"GET /posts/1/ HTTP/1.1" 200 12944
+Request to /posts/1/ took 0.020911 seconds
+"GET /posts/1/ HTTP/1.1" 200 12944
+Request to /posts/1/ took 0.018755 seconds
+"GET /posts/1/ HTTP/1.1" 200 12945
+Request to /posts/1/ took 0.007974 seconds
+"GET /posts/1/ HTTP/1.1" 200 12946
+Request to /posts/1/ took 0.015557 seconds
+"GET /posts/1/ HTTP/1.1" 200 12946
+Request to /posts/1/ took 0.006287 seconds
+"GET /posts/1/ HTTP/1.1" 200 13037
+Request to /posts/1/ took 0.011602 seconds
+"GET /posts/1/ HTTP/1.1" 200 13036
+Request to /posts/1/ took 0.019852 seconds
+"GET /posts/1/ HTTP/1.1" 200 13036
+Request to /posts/1/ took 0.020908 seconds
+"GET /posts/1/ HTTP/1.1" 200 13091
+Request to /posts/1/ took 0.005466 seconds
+"GET /posts/1/ HTTP/1.1" 200 13119
+Request to /posts/1/ took 0.016448 seconds
+"GET /posts/1/ HTTP/1.1" 200 13130
+Request to /posts/1/ took 0.021492 seconds
+"GET /posts/1/ HTTP/1.1" 200 13135
+Request to /posts/1/ took 0.000000 seconds
+"GET /posts/1/ HTTP/1.1" 200 13163
+Request to /posts/1/ took 0.021529 seconds
+"GET /posts/1/ HTTP/1.1" 200 13163
+Request to /posts/1/ took 0.014996 seconds
+"GET /posts/1/ HTTP/1.1" 200 13078
+Request to /posts/1/ took 0.011709 seconds
+"GET /posts/1/ HTTP/1.1" 200 13078
+Request to /posts/1/ took 0.021970 seconds
+"GET /posts/1/ HTTP/1.1" 200 13079
+Request to /posts/1/ took 0.019729 seconds
+"GET /posts/1/ HTTP/1.1" 200 13162
+Request to /posts/1/ took 0.014512 seconds
+"GET /posts/1/ HTTP/1.1" 200 13205
+Request to /posts/1/ took 0.010511 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/ took 0.022291 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/ took 0.012221 seconds
+"GET /posts/1/ HTTP/1.1" 200 13218
+Request to /posts/1/ took 0.023648 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/ took 0.004833 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/ took 0.015620 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/ took 0.000000 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/ took 0.014986 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/1/edit/ took 0.115676 seconds
+"GET /posts/1/edit/ HTTP/1.1" 200 15992
+Request to /posts/1/edit/ took 0.053855 seconds
+"POST /posts/1/edit/ HTTP/1.1" 302 0
+Request to /posts/ took 0.023529 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /media/media/LehaLX570_-_VmPFkQ6.jpg took 0.003986 seconds
+Request to /media/media/amggt_n6Il0WL.png took 0.003356 seconds
+"GET /media/media/amggt_n6Il0WL.png HTTP/1.1" 304 0
+"GET /media/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 304 0
+Request to /posts/1/ took 0.012336 seconds
+"GET /posts/1/ HTTP/1.1" 200 13221
+Request to /posts/ took 0.016890 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /posts/2 took 0.013507 seconds
+"GET /posts/2 HTTP/1.1" 301 0
+Request to /posts/2/ took 0.010091 seconds
+"GET /posts/2/ HTTP/1.1" 200 13285
+Request to /posts/2/ took 0.016853 seconds
+"GET /posts/2/ HTTP/1.1" 200 13272
+Request to /posts/2/ took 0.021537 seconds
+"GET /posts/2/ HTTP/1.1" 200 13078
+Request to /posts/2/ took 0.014211 seconds
+"GET /posts/2/ HTTP/1.1" 200 13078
+Request to /posts/2/ took 0.017730 seconds
+"GET /posts/2/ HTTP/1.1" 200 12958
+Request to /posts/2/ took 0.000000 seconds
+"GET /posts/2/ HTTP/1.1" 200 12959
+Request to /posts/2/edit/ took 0.048021 seconds
+"GET /posts/2/edit/ HTTP/1.1" 200 16066
+Request to /posts/2/edit/ took 0.012195 seconds
+"POST /posts/2/edit/ HTTP/1.1" 302 0
+Request to /posts/ took 0.016949 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /media/media/LehaLX570_-_VmPFkQ6.jpg took 0.000998 seconds
+"GET /media/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.012661 seconds
+"GET /posts/2/ HTTP/1.1" 200 12959
+Request to /posts/2/ took 0.003813 seconds
+"GET /posts/2/ HTTP/1.1" 200 12959
+Request to /posts/2/ took 0.032017 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.014081 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.006180 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.021622 seconds
+"GET /posts/2/ HTTP/1.1" 200 12918
+Request to /posts/2/ took 0.012650 seconds
+"GET /posts/2/ HTTP/1.1" 200 12916
+Request to /posts/2/ took 0.016672 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.021880 seconds
+"GET /posts/2/ HTTP/1.1" 200 12929
+Request to /posts/2/ took 0.015609 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.016311 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.017286 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.017872 seconds
+"GET /posts/2/ HTTP/1.1" 200 12933
+Request to /posts/2/ took 0.017805 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.015917 seconds
+"GET /posts/2/ HTTP/1.1" 200 12916
+Request to /posts/2/ took 0.014876 seconds
+"GET /posts/2/ HTTP/1.1" 200 12906
+Request to /posts/2/ took 0.014594 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.012080 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.015620 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.015866 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.015822 seconds
+"GET /posts/2/ HTTP/1.1" 200 12917
+Request to /posts/2/ took 0.020239 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.000000 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.015621 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.010864 seconds
+"GET /posts/2/ HTTP/1.1" 200 12932
+Request to /posts/2/ took 0.031325 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.006239 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.006897 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.017140 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.021959 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.015830 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.012247 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.021919 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.012965 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.013859 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.015340 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.025693 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.016909 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.021609 seconds
+"GET /posts/2/ HTTP/1.1" 200 12930
+Request to /posts/2/ took 0.019203 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.020737 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.017340 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.007954 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.011361 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.012431 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.012461 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.017145 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.020795 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.015454 seconds
+"GET /posts/2/ HTTP/1.1" 200 12931
+Request to /posts/2/ took 0.009905 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.033441 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.020188 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.021414 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.014939 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.020726 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.014749 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.012725 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.011582 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.019765 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/ took 0.022219 seconds
+"GET /posts/2/ HTTP/1.1" 200 13143
+Request to /posts/2/ took 0.003818 seconds
+"GET /posts/2/ HTTP/1.1" 200 13143
+Request to /posts/2/ took 0.017480 seconds
+"GET /posts/2/ HTTP/1.1" 200 13578
+Request to /posts/2/ took 0.007326 seconds
+"GET /posts/2/ HTTP/1.1" 200 12981
+Request to /posts/2/ took 0.017157 seconds
+"GET /posts/2/ HTTP/1.1" 200 13194
+"GET /static/5-a.jpg HTTP/1.1" 200 36703
+"GET /static/5-b.jpg HTTP/1.1" 200 31590
+"GET /static/5-c.jpg HTTP/1.1" 200 39147
+Request to /posts/2/ took 0.022354 seconds
+"GET /posts/2/ HTTP/1.1" 200 13337
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.010516 seconds
+"GET /posts/2/ HTTP/1.1" 200 13341
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.017005 seconds
+"GET /posts/2/ HTTP/1.1" 200 13339
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.014198 seconds
+"GET /posts/2/ HTTP/1.1" 200 13337
+Request to /posts/2/ took 0.016423 seconds
+"GET /posts/2/ HTTP/1.1" 200 13365
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.006374 seconds
+"GET /posts/2/ HTTP/1.1" 200 13360
+Request to /posts/2/ took 0.021580 seconds
+"GET /posts/2/ HTTP/1.1" 200 13360
+Request to /posts/2/ took 0.013546 seconds
+"GET /posts/2/ HTTP/1.1" 200 13369
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.013772 seconds
+"GET /posts/2/ HTTP/1.1" 200 13369
+Request to /posts/2/ took 0.013778 seconds
+"GET /posts/2/ HTTP/1.1" 200 13365
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.009826 seconds
+"GET /posts/2/ HTTP/1.1" 200 13394
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+Request to /posts/2/ took 0.015621 seconds
+"GET /posts/2/ HTTP/1.1" 200 13395
+Request to /posts/2/ took 0.018075 seconds
+"GET /posts/2/ HTTP/1.1" 200 13395
+Request to /posts/2/ took 0.016921 seconds
+"GET /posts/2/ HTTP/1.1" 200 13393
+Request to /posts/2/ took 0.003370 seconds
+"GET /posts/2/ HTTP/1.1" 200 13393
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.010970 seconds
+"GET /posts/2/ HTTP/1.1" 200 13365
+Request to /posts/2/ took 0.012950 seconds
+"GET /posts/2/ HTTP/1.1" 200 13337
+Request to /posts/2/ took 0.016989 seconds
+"GET /posts/2/ HTTP/1.1" 200 13336
+Request to /posts/2/ took 0.014251 seconds
+"GET /posts/2/ HTTP/1.1" 200 13336
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.012584 seconds
+"GET /posts/2/ HTTP/1.1" 200 13336
+Request to /posts/2/ took 0.017951 seconds
+"GET /posts/2/ HTTP/1.1" 200 13336
+Request to /posts/2/ took 0.015957 seconds
+"GET /posts/2/ HTTP/1.1" 200 13338
+Request to /posts/2/ took 0.010901 seconds
+"GET /posts/2/ HTTP/1.1" 200 13310
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.023416 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.006869 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.018950 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.023923 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.005558 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.000000 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.013597 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.015958 seconds
+"GET /posts/2/ HTTP/1.1" 200 13308
+Request to /posts/2/ took 0.021395 seconds
+"GET /posts/2/ HTTP/1.1" 200 13330
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.005957 seconds
+"GET /posts/2/ HTTP/1.1" 200 13330
+Request to /posts/2/ took 0.019317 seconds
+"GET /posts/2/ HTTP/1.1" 200 13330
+Request to /posts/2/ took 0.023991 seconds
+"GET /posts/2/ HTTP/1.1" 200 13330
+Request to /posts/2/ took 0.021833 seconds
+"GET /posts/2/ HTTP/1.1" 200 13330
+Request to /posts/2/ took 0.011556 seconds
+"GET /posts/2/ HTTP/1.1" 200 13297
+Request to /posts/2/ took 0.006098 seconds
+"GET /posts/2/ HTTP/1.1" 200 13319
+Request to /posts/2/ took 0.018592 seconds
+"GET /posts/2/ HTTP/1.1" 200 13297
+Request to /posts/2/ took 0.013606 seconds
+"GET /posts/2/ HTTP/1.1" 200 13319
+Request to /posts/2/ took 0.016934 seconds
+"GET /posts/2/ HTTP/1.1" 200 13319
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.011800 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.010312 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.022917 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.004290 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.022703 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.009550 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.014938 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.012772 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.019317 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.020857 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+Request to /posts/2/ took 0.031559 seconds
+"GET /posts/2/ HTTP/1.1" 200 13268
+"GET /static/5-a.jpg HTTP/1.1" 304 0
+"GET /static/5-b.jpg HTTP/1.1" 304 0
+"GET /static/5-c.jpg HTTP/1.1" 304 0
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Request to /posts/2/ took 0.484183 seconds
+"GET /posts/2/ HTTP/1.1" 200 12866
+Request to /posts/2/ took 0.011798 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.005445 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.021772 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.004473 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.011468 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.014887 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.015618 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.022936 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/ took 0.069908 seconds
+"GET /posts/ HTTP/1.1" 200 13780
+Request to /media/media/amggt_n6Il0WL.png took 0.001992 seconds
+Request to /media/media/LehaLX570_-_VmPFkQ6.jpg took 0.006981 seconds
+"GET /media/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 304 0
+"GET /media/media/amggt_n6Il0WL.png HTTP/1.1" 304 0
+Request to /posts/2/ took 0.014323 seconds
+"GET /posts/2/ HTTP/1.1" 200 12865
+Request to /posts/2/ took 0.022487 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.058641 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/2/ took 0.021573 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.012750 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/2/ took 0.012286 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.010083 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/ took 0.028161 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /posts/1/ took 0.011974 seconds
+"GET /posts/1/ HTTP/1.1" 200 12857
+Request to /posts/1/media/amggt_n6Il0WL.png took 0.012676 seconds
+Not Found: /posts/1/media/amggt_n6Il0WL.png
+"GET /posts/1/media/amggt_n6Il0WL.png HTTP/1.1" 404 12894
+Request to /posts/ took 0.026868 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /posts/2/ took 0.013538 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.014707 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/2/ took 0.004968 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.010358 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/2/ took 0.015628 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.012622 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/ took 0.017875 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /posts/2/ took 0.004728 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_VmPFkQ6.jpg took 0.018003 seconds
+Not Found: /posts/2/media/LehaLX570_-_VmPFkQ6.jpg
+"GET /posts/2/media/LehaLX570_-_VmPFkQ6.jpg HTTP/1.1" 404 12918
+Request to /posts/2/edit/ took 0.122416 seconds
+"GET /posts/2/edit/ HTTP/1.1" 200 16067
+Request to /posts/2/edit/ took 0.189309 seconds
+"POST /posts/2/edit/ HTTP/1.1" 302 0
+Request to /posts/ took 0.016816 seconds
+"GET /posts/ HTTP/1.1" 200 13764
+Request to /media/media/urus.png took 0.010189 seconds
+"GET /media/media/urus.png HTTP/1.1" 200 333135
+Request to /posts/2/ took 0.010196 seconds
+"GET /posts/2/ HTTP/1.1" 200 12912
+Request to /posts/2/media/urus.png took 0.010967 seconds
+Not Found: /posts/2/media/urus.png
+"GET /posts/2/media/urus.png HTTP/1.1" 404 12858
+Request to /posts/2/edit/ took 0.034064 seconds
+"GET /posts/2/edit/ HTTP/1.1" 200 16036
+Request to /posts/2/edit/ took 0.025812 seconds
+"POST /posts/2/edit/ HTTP/1.1" 302 0
+Request to /posts/ took 0.016345 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /media/media/LehaLX570_-_xwdmBHz.jpg took 0.011765 seconds
+"GET /media/media/LehaLX570_-_xwdmBHz.jpg HTTP/1.1" 200 888679
+C:\Users\akimz\PycharmProjects\Month4Hw\car dealership\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Request to /admin/ took 0.355642 seconds
+"GET /admin/ HTTP/1.1" 302 0
+Request to /admin/login/ took 0.075535 seconds
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 12486
+"GET /static/vendor/bootswatch/superhero/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+"GET /static/vendor/adminlte/css/adminlte.min.css HTTP/1.1" 304 0
+"GET /static/jazzmin/css/main.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 304 0
+"GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+"GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Internal Server Error: /posts/
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py", line 46, in post_list_view
+    search_form = SearchForm(request.GET)
+                  ^^^^^^^^^^
+NameError: name 'SearchForm' is not defined
+Request to /posts/ took 0.237572 seconds
+"GET /posts/ HTTP/1.1" 500 82689
+Internal Server Error: /posts/
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py", line 46, in post_list_view
+    search_form = SearchForm(request.GET)
+                  ^^^^^^^^^^
+NameError: name 'SearchForm' is not defined
+Request to /posts/ took 0.071431 seconds
+"GET /posts/ HTTP/1.1" 500 82415
+Request to /favicon.ico took 0.025397 seconds
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 12814
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /posts/
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py", line 46, in post_list_view
+    search_form = SearchForm(request.GET)
+                  ^^^^^^^^^^
+NameError: name 'SearchForm' is not defined
+Request to /posts/ took 0.283695 seconds
+"GET /posts/ HTTP/1.1" 500 82552
+C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py changed, reloading.
+Watching for file changes with StatReloader
+Request to /posts/ took 0.496859 seconds
+"GET /posts/ HTTP/1.1" 200 13780
+Request to /media/media/LehaLX570_-_xwdmBHz.jpg took 0.002110 seconds
+Request to /media/media/amggt_n6Il0WL.png took 0.001616 seconds
+"GET /media/media/amggt_n6Il0WL.png HTTP/1.1" 304 0
+"GET /media/media/LehaLX570_-_xwdmBHz.jpg HTTP/1.1" 304 0
+Request to /posts/2/ took 0.056244 seconds
+"GET /posts/2/ HTTP/1.1" 200 12927
+Request to /posts/2/media/LehaLX570_-_xwdmBHz.jpg took 0.015969 seconds
+Not Found: /posts/2/media/LehaLX570_-_xwdmBHz.jpg
+"GET /posts/2/media/LehaLX570_-_xwdmBHz.jpg HTTP/1.1" 404 12918
+Request to /posts/ took 0.018514 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /posts/create/ took 0.137469 seconds
+"GET /posts/create/ HTTP/1.1" 200 15612
+Request to /posts/ took 0.027113 seconds
+"GET /posts/ HTTP/1.1" 200 13779
+Request to /posts/1/ took 0.011823 seconds
+"GET /posts/1/ HTTP/1.1" 200 12857
+Request to /posts/1/media/amggt_n6Il0WL.png took 0.013057 seconds
+Not Found: /posts/1/media/amggt_n6Il0WL.png
+"GET /posts/1/media/amggt_n6Il0WL.png HTTP/1.1" 404 12894
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /posts/1/
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 486, in parse
+    command = token.contents.split()[0]
+              ~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loader_tags.py", line 295, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\base.py", line 488, in parse
+    raise self.error(token, "Empty block tag on line %d" % token.lineno)
+django.template.exceptions.TemplateSyntaxError: Empty block tag on line 19
+Request to /posts/1/ took 0.344277 seconds
+"GET /posts/1/ HTTP/1.1" 500 188141
+Request to /posts/1/ took 0.022224 seconds
+"GET /posts/1/ HTTP/1.1" 200 12830
+Request to /posts/ took 0.046290 seconds
+"GET /posts/ HTTP/1.1" 200 13762
+"GET /static/notfound.webp HTTP/1.1" 304 0
+Request to /posts/create/ took 0.056172 seconds
+"GET /posts/create/ HTTP/1.1" 200 15508
+Request to /posts/create/ took 0.052220 seconds
+"GET /posts/create/ HTTP/1.1" 200 15508
+Request to /profile/ took 0.042715 seconds
+"GET /profile/ HTTP/1.1" 200 12266
+Request to /media/logos/LehaLX570_-.jpg took 0.001193 seconds
+"GET /media/logos/LehaLX570_-.jpg HTTP/1.1" 304 0
+Request to /posts/1/ took 0.019030 seconds
+"GET /posts/1/ HTTP/1.1" 200 12830
+Request to /posts/ took 0.021919 seconds
+"GET /posts/ HTTP/1.1" 200 13761
+Request to /posts/create/ took 0.040294 seconds
+"GET /posts/create/ HTTP/1.1" 200 15508
+Request to / took 0.022086 seconds
+"GET / HTTP/1.1" 200 11323
+"GET /static/meme.jpeg HTTP/1.1" 304 0
+Request to /posts/ took 0.026356 seconds
+"GET /posts/ HTTP/1.1" 200 13761
+Request to /posts/ took 0.018901 seconds
+"GET /posts/ HTTP/1.1" 200 13761
+Request to /posts/create/ took 0.031803 seconds
+"GET /posts/create/ HTTP/1.1" 200 15508
+C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py changed, reloading.
+Watching for file changes with StatReloader
+Request to /posts/create/ took 0.241448 seconds
+"GET /posts/create/ HTTP/1.1" 200 15508
+Request to /posts/ took 0.029394 seconds
+"GET /posts/ HTTP/1.1" 200 13761
+Request to /posts/create/ took 0.025541 seconds
+"GET /posts/create/ HTTP/1.1" 200 15507
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\akimz\PycharmProjects\Month4Hw\car dealership\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Request to /posts/create/ took 0.277279 seconds
+"GET /posts/create/ HTTP/1.1" 200 15508
+Internal Server Error: /posts/create2/
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py", line 104, in post
+    return render(request, 'index.html',
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: index.html
+Request to /posts/create2/ took 0.097158 seconds
+"GET /posts/create2/ HTTP/1.1" 500 104278
+C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py changed, reloading.
+Watching for file changes with StatReloader
+Request to /posts/create2/ took 0.283151 seconds
+"GET /posts/create2/ HTTP/1.1" 200 15949
+C:\Users\akimz\PycharmProjects\Month4Hw\post\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /posts/create2/
+Traceback (most recent call last):
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 23, in _wrapper_view
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\post\views.py", line 95, in post
+    photo.save()
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\base.py", line 822, in save
+    self.save_base(
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\base.py", line 909, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1067, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\base.py", line 1108, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1747, in as_sql
+    self.prepare_value(field, self.pre_save_val(field, obj))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1695, in pre_save_val
+    return field.pre_save(obj, add=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\fields\files.py", line 317, in pre_save
+    file.save(file.name, file.file, save=False)
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\fields\files.py", line 92, in save
+    name = self.field.generate_filename(self.instance, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\.venv\Lib\site-packages\django\db\models\fields\files.py", line 332, in generate_filename
+    filename = self.upload_to(instance, filename)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py", line 98, in get_image_filename
+    return "note/user/"+ str(instance.note.user.id) + "/"+ str(instance.note.id)+ "/"+"IMG_" + str(instance.note.id)+ext
+                             ^^^^^^^^^^^^^
+AttributeError: 'Images' object has no attribute 'note'
+Request to /posts/create2/ took 1.094865 seconds
+"POST /posts/create2/ HTTP/1.1" 500 155319
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+Request to /posts/create2/ took 0.673075 seconds
+"POST /posts/create2/ HTTP/1.1" 302 0
+Request to / took 0.016710 seconds
+"GET / HTTP/1.1" 200 11323
+Request to /posts/ took 0.068300 seconds
+"GET /posts/ HTTP/1.1" 200 14480
+Request to /posts/2 took 0.014979 seconds
+"GET /posts/2 HTTP/1.1" 301 0
+Request to /posts/2/ took 0.018211 seconds
+"GET /posts/2/ HTTP/1.1" 200 12894
+Request to /posts/ took 0.031411 seconds
+"GET /posts/ HTTP/1.1" 200 14480
+Request to /admin/ took 0.039875 seconds
+"GET /admin/ HTTP/1.1" 302 0
+Request to /admin/login/ took 0.042691 seconds
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 12486
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/login/ took 2.699095 seconds
+- Broken pipe from ('127.0.0.1', 60638)
+Request to /admin/login/ took 2.212450 seconds
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 12807
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/login/ took 0.765424 seconds
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+Request to /admin/ took 0.134760 seconds
+"GET /admin/ HTTP/1.1" 200 59083
+"GET /static/jazzmin/js/main.js HTTP/1.1" 304 0
+"GET /static/jazzmin/js/ui-builder.js HTTP/1.1" 304 0
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+"GET /static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+Request to /admin/post/cars/ took 0.164576 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 52647
+"GET /static/vendor/select2/css/select2.min.css HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/jsi18n/ took 0.029607 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/vendor/select2/js/select2.min.js HTTP/1.1" 304 0
+"GET /static/jazzmin/js/change_list.js HTTP/1.1" 304 0
+Request to /admin/post/cars/3/change/ took 0.160468 seconds
+"GET /admin/post/cars/3/change/ HTTP/1.1" 200 65542
+"GET /static/colorfield/colorfield.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/colorfield/jscolor/jscolor.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+Request to /admin/jsi18n/ took 0.024350 seconds
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+"GET /static/jazzmin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Request to /admin/post/cars/3/change/ took 0.050533 seconds
+"POST /admin/post/cars/3/change/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.049959 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53217
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/jsi18n/ took 0.014654 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Request to /admin/post/cars/4/change/ took 0.077427 seconds
+"GET /admin/post/cars/4/change/ HTTP/1.1" 200 65542
+Request to /admin/jsi18n/ took 0.013013 seconds
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Request to /admin/post/cars/4/change/ took 0.032760 seconds
+"POST /admin/post/cars/4/change/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.033540 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53217
+Request to /admin/jsi18n/ took 0.013268 seconds
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Request to /admin/post/cars/4/change/ took 0.086865 seconds
+"GET /admin/post/cars/4/change/ HTTP/1.1" 200 65542
+Request to /admin/jsi18n/ took 0.012537 seconds
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Request to /admin/post/cars/4/change/ took 0.033630 seconds
+"POST /admin/post/cars/4/change/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.033810 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53217
+Request to /admin/jsi18n/ took 0.007865 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/cars/3/change/ took 0.067786 seconds
+"GET /admin/post/cars/3/change/ HTTP/1.1" 200 65542
+Request to /admin/jsi18n/ took 0.011432 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/cars/3/change/ took 0.033233 seconds
+"POST /admin/post/cars/3/change/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.033314 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53217
+Request to /admin/jsi18n/ took 0.007438 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/cars/3/change/ took 0.063803 seconds
+"GET /admin/post/cars/3/change/ HTTP/1.1" 200 65542
+Request to /admin/jsi18n/ took 0.006415 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/cars/3/change/ took 0.029226 seconds
+"POST /admin/post/cars/3/change/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.038029 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53217
+Request to /admin/jsi18n/ took 0.005983 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/cars/4/change/ took 0.069358 seconds
+"GET /admin/post/cars/4/change/ HTTP/1.1" 200 65542
+Request to /admin/jsi18n/ took 0.006858 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/cars/4/change/ took 0.017084 seconds
+"POST /admin/post/cars/4/change/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.033787 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53217
+Request to /admin/jsi18n/ took 0.008020 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /posts/ took 0.065134 seconds
+"GET /posts/ HTTP/1.1" 200 14479
+Request to /posts/ took 0.034914 seconds
+"GET /posts/ HTTP/1.1" 200 14479
+Request to /posts/ took 0.028925 seconds
+"GET /posts/ HTTP/1.1" 200 14479
+C:\Users\akimz\PycharmProjects\Month4Hw\post\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Request to /posts/ took 0.223753 seconds
+"GET /posts/ HTTP/1.1" 200 14480
+Request to /posts/2 took 0.012995 seconds
+"GET /posts/2 HTTP/1.1" 301 0
+Request to /posts/2/ took 0.010936 seconds
+"GET /posts/2/ HTTP/1.1" 200 12894
+Request to /posts/3 took 0.011004 seconds
+"GET /posts/3 HTTP/1.1" 301 0
+Request to /posts/3/ took 0.007980 seconds
+"GET /posts/3/ HTTP/1.1" 200 12751
+Request to /posts/4 took 0.011969 seconds
+"GET /posts/4 HTTP/1.1" 301 0
+Request to /posts/4/ took 0.009936 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.020977 seconds
+"GET /posts/ HTTP/1.1" 200 14479
+Request to /posts/ took 0.028921 seconds
+"GET /posts/?search=&ordering=title HTTP/1.1" 200 15119
+Request to /posts/ took 0.018951 seconds
+"GET /posts/?search=Lexus&ordering=title HTTP/1.1" 200 12462
+Request to /posts/ took 0.023937 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to / took 0.013963 seconds
+"GET / HTTP/1.1" 200 11323
+Request to /posts/ took 0.020976 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/2/ took 0.010967 seconds
+"GET /posts/2/ HTTP/1.1" 200 12894
+Request to /posts/ took 0.017989 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.018948 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 13433
+Request to /posts/ took 0.020947 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 15086
+Request to /posts/2/ took 0.013959 seconds
+"GET /posts/2/ HTTP/1.1" 200 12894
+Request to /posts/ took 0.020942 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/3/ took 0.010001 seconds
+"GET /posts/3/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.020978 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/4/ took 0.013962 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.018947 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /__debug__/render_panel/ took 0.030917 seconds
+"GET /__debug__/render_panel/?store_id=8f6a0a1f61894fb58cb46a9d54cc2951&panel_id=SQLPanel HTTP/1.1" 200 93019
+Request to /profile/ took 0.022938 seconds
+"GET /profile/ HTTP/1.1" 200 11773
+Request to /media/ took 0.009971 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /logout/ took 0.019465 seconds
+"GET /logout/ HTTP/1.1" 302 0
+Request to / took 0.000999 seconds
+"GET / HTTP/1.1" 200 11340
+Request to /login/ took 0.012966 seconds
+"GET /login/ HTTP/1.1" 200 11850
+Request to /login/ took 0.763680 seconds
+"POST /login/ HTTP/1.1" 302 0
+Request to / took 0.006297 seconds
+"GET / HTTP/1.1" 200 11323
+Request to /profile/ took 0.013927 seconds
+"GET /profile/ HTTP/1.1" 200 13104
+Request to /media/logos/LehaLX570_-.jpg took 0.000995 seconds
+"GET /media/logos/LehaLX570_-.jpg HTTP/1.1" 200 888679
+Request to /posts/4 took 0.011978 seconds
+"GET /posts/4 HTTP/1.1" 301 0
+Request to /posts/4/ took 0.009975 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.018950 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /profile/ took 0.015991 seconds
+"GET /profile/ HTTP/1.1" 200 13104
+Request to /posts/3 took 0.011966 seconds
+"GET /posts/3 HTTP/1.1" 301 0
+Request to /posts/3/ took 0.008977 seconds
+"GET /posts/3/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.022940 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /profile/ took 0.015956 seconds
+"GET /profile/ HTTP/1.1" 200 13104
+Request to /posts/4/ took 0.011007 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.016953 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /profile/ took 0.011967 seconds
+"GET /profile/ HTTP/1.1" 200 13104
+Request to /posts/3/ took 0.010970 seconds
+"GET /posts/3/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.019948 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/2 took 0.011994 seconds
+"GET /posts/2 HTTP/1.1" 301 0
+Request to /posts/2/ took 0.009980 seconds
+"GET /posts/2/ HTTP/1.1" 200 12894
+Request to /posts/ took 0.022943 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.057844 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 13433
+Request to /posts/ took 0.022935 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 15086
+Request to /posts/create/ took 0.031952 seconds
+"GET /posts/create/ HTTP/1.1" 200 15507
+Request to /posts/ took 0.017949 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.032966 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.016990 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.017984 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.018950 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+C:\Users\akimz\PycharmProjects\Month4Hw\post\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Request to /admin/post/cars/ took 0.183937 seconds
+"GET /admin/post/cars/ HTTP/1.1" 302 0
+Request to /admin/login/ took 0.018064 seconds
+"GET /admin/login/?next=/admin/post/cars/ HTTP/1.1" 200 12505
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/login/ took 0.756877 seconds
+"POST /admin/login/?next=/admin/post/cars/ HTTP/1.1" 302 0
+Request to /admin/post/cars/ took 0.084269 seconds
+"GET /admin/post/cars/ HTTP/1.1" 200 53255
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/jsi18n/ took 0.016990 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Request to /admin/post/images/ took 0.040904 seconds
+"GET /admin/post/images/ HTTP/1.1" 200 47416
+Request to /admin/jsi18n/ took 0.009973 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/images/2/change/ took 0.110704 seconds
+"GET /admin/post/images/2/change/ HTTP/1.1" 200 48585
+Request to /admin/jsi18n/ took 0.009973 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/images/2/change/ took 0.028506 seconds
+"POST /admin/post/images/2/change/ HTTP/1.1" 302 0
+Request to /admin/post/images/ took 0.029927 seconds
+"GET /admin/post/images/ HTTP/1.1" 200 47987
+Request to /admin/jsi18n/ took 0.008017 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/images/1/change/ took 0.036865 seconds
+"GET /admin/post/images/1/change/ HTTP/1.1" 200 48568
+Request to /admin/jsi18n/ took 0.006020 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /admin/post/images/1/change/ took 0.023009 seconds
+"POST /admin/post/images/1/change/ HTTP/1.1" 302 0
+Request to /admin/post/images/ took 0.027498 seconds
+"GET /admin/post/images/ HTTP/1.1" 200 47987
+Request to /admin/jsi18n/ took 0.006982 seconds
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/post/img/logo.png HTTP/1.1" 404 1810
+Request to /posts/ took 0.030917 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.020946 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 13433
+Request to /posts/ took 0.022978 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 15086
+Request to /posts/3 took 0.013962 seconds
+"GET /posts/3 HTTP/1.1" 301 0
+Request to /posts/3/ took 0.012965 seconds
+"GET /posts/3/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.018982 seconds
+"GET /posts/ HTTP/1.1" 200 15079
+Request to /posts/ took 0.028922 seconds
+"GET /posts/ HTTP/1.1" 200 13159
+Request to /posts/ took 0.017002 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 12790
+Request to /posts/ took 0.016957 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 12790
+Request to /posts/ took 0.017951 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.026966 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.016953 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.016952 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.025932 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.016950 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.017984 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 13166
+Request to /posts/ took 0.029959 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14512
+Request to /media/ took 0.051894 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.023938 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14512
+Request to /media/ took 0.016956 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.017998 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 12790
+Request to /posts/ took 0.023935 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14512
+Request to /media/ took 0.014951 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.024965 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14512
+Request to /media/ took 0.016967 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.018982 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 12790
+Request to /posts/ took 0.023937 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14512
+Request to /media/ took 0.014959 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.032914 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14822
+Request to /media/ took 0.014962 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.019946 seconds
+"GET /posts/?page=2 HTTP/1.1" 200 13100
+Request to /posts/ took 0.020977 seconds
+"GET /posts/?page=1 HTTP/1.1" 200 14822
+Request to /media/ took 0.009969 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/4 took 0.010008 seconds
+"GET /posts/4 HTTP/1.1" 301 0
+Request to /posts/4/ took 0.010968 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.022938 seconds
+"GET /posts/ HTTP/1.1" 200 14815
+Request to /media/ took 0.008976 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/4/ took 0.011961 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.023926 seconds
+"GET /posts/ HTTP/1.1" 200 14815
+Request to /media/ took 0.009973 seconds
+Not Found: /media/
+"GET /media/ HTTP/1.1" 404 13091
+Request to /posts/ took 0.031914 seconds
+"GET /posts/ HTTP/1.1" 200 14869
+Request to /media/post/user/2/4/IMG_4.jpg took 0.010971 seconds
+Request to /media/post/user/2/4/IMG_4_bpTaQd0.jpg took 0.010927 seconds
+"GET /media/post/user/2/4/IMG_4_bpTaQd0.jpg HTTP/1.1" 200 893617
+"GET /media/post/user/2/4/IMG_4.jpg HTTP/1.1" 200 888679
+Request to /posts/4/ took 0.012964 seconds
+"GET /posts/4/ HTTP/1.1" 200 12751
+Request to /posts/ took 0.026927 seconds
+"GET /posts/ HTTP/1.1" 200 14869
+Request to /posts/ took 0.030949 seconds
+"GET /posts/ HTTP/1.1" 200 14869
+Request to /posts/ took 0.031915 seconds
+"GET /posts/ HTTP/1.1" 200 15379
+Request to /media/post/user/2/4/IMG_4.jpg took 0.002992 seconds
+Request to /media/post/user/2/4/IMG_4_bpTaQd0.jpg took 0.001957 seconds
+"GET /media/post/user/2/4/IMG_4_bpTaQd0.jpg HTTP/1.1" 304 0
+"GET /media/post/user/2/4/IMG_4.jpg HTTP/1.1" 304 0
+Request to /posts/4/ took 0.015957 seconds
+"GET /posts/4/ HTTP/1.1" 200 13105
+Request to /posts/ took 0.024968 seconds
+"GET /posts/ HTTP/1.1" 200 15379
+Request to /posts/4/ took 0.014962 seconds
+"GET /posts/4/ HTTP/1.1" 200 13105
+Request to /posts/ took 0.027911 seconds
+"GET /posts/ HTTP/1.1" 200 15379
+Request to /posts/ took 0.023938 seconds
+"GET /posts/ HTTP/1.1" 200 15379
+Request to / took 0.009972 seconds
+"GET / HTTP/1.1" 200 11323
+Request to /posts/ took 0.026927 seconds
+"GET /posts/ HTTP/1.1" 200 15379

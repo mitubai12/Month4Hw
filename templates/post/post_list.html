@@ -1,0 +1,50 @@
+{% extends 'components/navbar.html' %}
+{% load static %}
+
+{% block content %}
+    
+<form action="/posts/" method="get">
+    {{ search_form.as_p }}
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>    
+<body style="background-color: cornflowerblue">
+    <h1 class="text-center mt-5 mb-4">Машины {{ name }}</h1>
+        <div class="container">
+           <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+           <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+           <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+           <div class="row justify-content-center">
+                {% for post in posts %}
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow">
+                        <div class="fotorama" data-width="540" data-height="500" data-nav="thumbs" data-transition="slide" data-clicktransition="crossfade">
+                          {% for images in post.images.all %}
+                            {% if images.image %}
+                                <img src="/media/{{ images.image }}" class="card-img-top" alt="Book Cover">
+                            {% else %}
+                                <img src="{% static 'notfound.webp' %}" class="card-img-top" alt="Default Cover">
+                            {% endif %}
+                          {% endfor %}
+                        </div>
+                        <div class="card-body">
+                            <h2 class="card-title">{{ post.title }}</h2>
+                            <h6>{{ post.author }}</h6>
+                            {% for category in post.category.all %}
+                            <h3 class="card-category">Категория: {{ category.title }}</h3>
+                            {% endfor %}
+                            <a href="/posts/{{ post.id }}" class="btn btn-primary btn-sm">Посмотреть</a>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    <div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+        {% for i in max_pages %}
+        <a href="/posts/?page={{ i }}" class="btn btn-primary">
+            {{ i }}
+        </a>
+        {% endfor %}
+    </div>
+</body>
+{% endblock %}

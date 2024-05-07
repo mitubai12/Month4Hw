@@ -1,0 +1,44 @@
+{% extends 'components/navbar.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="flex-container">
+        <div class="row justify-content-center">
+            <div class="col-md-3">
+                <div>
+                    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+                    <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+                    <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+                    <style>
+                        .fotorama {
+                            width: 200%;
+                            height: 80%;
+                        }
+                    </style>
+                    <div class="fotorama" data-width="540" data-height="500" data-nav="thumbs" data-transition="slide" data-clicktransition="crossfade">
+                       {% for images in post.images.all %}
+                          {% if images.image %}
+                            <img src="/media/{{ images.image }}" class="card-img-top" alt="Book Cover">
+                          {% else %}
+                            <img src="{% static 'notfound.webp' %}" class="card-img-top" alt="Default Cover">
+                          {% endif %}
+                       {% endfor %}
+                    </div>
+                    <div class="card-body">
+                        <h2 class="card-title">{{ post.title }}</h2>
+                        <div class="mb-3">
+                            {% for category in post.category.all %}
+                                <h1 class="badge bg-primary">Category: {{ category.title }}</h1>
+                            {% endfor %}
+                        </div>
+                        <p class="card-text">{{ post.description }}</p>
+                        <div class="d-flex justify-content-between mt-3">
+                            <a href="/posts/" class="btn btn-outline-primary">Back</a>
+                            <a href="edit/" class="btn btn-outline-danger btn-sm">Edit</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,31 @@
+{% extends 'components/navbar.html' %}
+
+
+{% block content %}
+
+
+<h1 class="mt-5" style="text-align: center;">
+    Выставить книгу
+</h1>
+
+<div class="container" style="background-color: #3875d7;">
+    <form id="post_form" action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        {% for hidden in postForm.hidden_fields %}
+            {{ hidden }}
+        {% endfor %}
+
+        {% for field in postForm %}
+            {{ field }} <br />
+        {% endfor %}
+
+        {{ formset.management_form }}
+        {% for form in formset %}
+            {{ form }}
+        {% endfor %}
+
+        <input type="submit" class="btn btn-primary" value="Создать книгу">
+    </form>
+</div>
+{% endblock %}

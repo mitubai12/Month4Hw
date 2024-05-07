@@ -1,11 +1,20 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <title>Main Page</title>
-</head>
-<body>
-    <h1>Это главная страница, лол</h1>
-    <p>Текущая дата и время: {{ curr_datetime }}</p>
-</body>
-</html>
+{% extends 'components/navbar.html' %}
+
+{% load static %}
+
+
+{% block content %}
+
+    <img src="{% static 'meme.jpeg' %}" alt="main image" width="100">
+
+    <h1>
+        Welcome to the main page
+    </h1>
+
+    <h2>
+        Hello I'm here just for smth, but idk for what exactly
+    </h2>
+
+
+
+{% endblock %}

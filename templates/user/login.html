@@ -1,0 +1,20 @@
+{% extends 'components/navbar.html' %}
+
+
+{% block content %}
+
+
+<h1 class="mt-5" style="text-align: center;">
+    Войти
+</h1>
+
+<div class="container">
+    <form action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+
+        <input type="submit" class="btn btn-primary" value="Войти">
+    </form>
+</div>
+
+{% endblock %}

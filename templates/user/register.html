@@ -1,0 +1,19 @@
+{% extends 'components/navbar.html' %}
+
+
+{% block content %}
+
+
+<h1 class="mt-5" style="text-align: center;">
+    Регистрация
+</h1>
+
+<div class="container" style="background-color: #3875d7;">
+    <form action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+
+        <input type="submit" class="btn btn-primary" value="Зарегистрироваться">
+    </form>
+</div>
+{% endblock %}
